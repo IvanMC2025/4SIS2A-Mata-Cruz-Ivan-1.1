@@ -1,0 +1,19 @@
+#CarlosLanderos{
+    width: 1400px;
+    height: 400px;
+    border-width: 2px;
+    border-color: blue;
+    border-radius: 20px;
+    box-shadow: 15px;
+}
+
+#principal{
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet;   
+     
+}
+
+#cuerpo{
+    background-color: aquamarine;
+}
